@@ -3,6 +3,7 @@ Multi Character Feature for QB-Core Framework :people_holding_hands:
 
 
 If needing help please do join my discord below 
+
 discord for support - https://discord.gg/GB3QJRDSEx
 
 Added support for setting default number of characters per player per Rockstar license
